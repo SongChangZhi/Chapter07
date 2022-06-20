@@ -18,7 +18,10 @@
     <ClCompile Include="习题1.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
-    <ClCompile Include="习题2.cpp">
+    <ClCompile Include="习题3.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="习题5.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
   </ItemGroup>
