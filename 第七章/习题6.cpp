@@ -8,13 +8,6 @@
 //	student* next;
 //};
 //	int n;
-//	int main()
-//	{
-//		student* creat(void);
-//		student* p=creat();
-//		return 0;
-//		cout << p->num<<p->score;
-//	}
 //	student* creat(void)
 //	{
 //		student* head;
@@ -37,5 +30,6 @@
 //		p2->next = NULL;
 //		return(head);
 //	}
+//	
 //	
 //	
