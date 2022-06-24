@@ -133,6 +133,7 @@
     <ClCompile Include="习题6.cpp" />
     <ClCompile Include="习题7.cpp" />
     <ClCompile Include="习题8.cpp" />
+    <ClCompile Include="习题9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
