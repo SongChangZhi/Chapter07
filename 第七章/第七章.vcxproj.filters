@@ -39,9 +39,6 @@
     <ClCompile Include="习题10.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
-    <ClCompile Include="习题11（1）.cpp">
-      <Filter>资源文件</Filter>
-    </ClCompile>
     <ClCompile Include="习题11（2）.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
