@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="习题1.cpp" />
     <ClCompile Include="习题10.cpp" />
+    <ClCompile Include="习题11（1）.cpp" />
+    <ClCompile Include="习题11（2）.cpp" />
+    <ClCompile Include="习题11（3）.cpp" />
     <ClCompile Include="习题3.cpp" />
     <ClCompile Include="习题5.cpp" />
     <ClCompile Include="习题6.cpp" />
